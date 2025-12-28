@@ -29,7 +29,7 @@ Não é necessário nenhuma instalação ou servidor. Basta abrir o arquivo `ind
 
 ```bash
 # Clone o repositório (opcional)
-git clone https://github.com/seu-usuario/powerof3.git
+git clone https://github.com/seu-usuario/powers-of-3.git
 
 # Navegue até a pasta
 cd powerof3
