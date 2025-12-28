@@ -70,7 +70,7 @@ No installation or server is required. Simply open the `index.html` file in any 
 
 ```bash
 # Clone the repository (optional)
-git clone https://github.com/your-username/powerof3.git
+git clone https://github.com/your-username/powers-of-3.git
 
 # Navigate to the folder
 cd powerof3
